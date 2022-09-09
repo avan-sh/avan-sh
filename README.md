@@ -2,7 +2,7 @@
 
 
 - 🤓 Student at Northeastern University
-- 👷🏼‍♂️ Ex-Data Engineer at Quantumblack
 - 🔭 Want to help build & Maintain ML Systems easier.
 - 💻 Passionate about open source & contributed to [Kedro](https://kedro.org/) & [Flyte](flyte.org).
+- 👷🏼‍♂️ Ex-Data Engineer at Quantumblack
 - 📫 How to reach me: [linkedin.com/in/avaneeshyembadi/](linkedin.com/in/avaneeshyembadi/)

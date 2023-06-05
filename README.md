@@ -2,7 +2,6 @@
 
 
 - 🤓 Student at Northeastern University
-- 🔭 Want to help build & maintain ML Systems easier.
-- 💻 Passionate about open source particularly about MLOps projects.
+- 🔭 Want to help build & maintain Systems easier.
 - 👷🏼‍♂️ Ex-Data Engineer at Quantumblack
 - 📫 How to reach me: [linkedin.com/in/avaneeshyembadi/](linkedin.com/in/avaneeshyembadi/)

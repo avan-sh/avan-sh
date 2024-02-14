@@ -2,6 +2,8 @@
 
 
 - 🤓 Student at Northeastern University
-- 🔭 Want to help build & maintain Systems easier.
-- 👷🏼‍♂️ Ex-Data Engineer at Quantumblack
+- 🔎 Looking for Full-Time Opportunities as an SRE or SDE
+- 🔭 Want to develop tools that make it easier to build & maintain ML/Web Systems
+- 👷🏼‍♂️ Ex-Data Engineer at [Quantumblack](https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients/)
+- 👷🏼‍♂️ SRE Co-Op at [Tamr](https://www.tamr.com/)
 - 📫 How to reach me: [linkedin.com/in/avaneeshyembadi/](linkedin.com/in/avaneeshyembadi/)

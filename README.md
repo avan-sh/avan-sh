@@ -5,5 +5,5 @@
 - 🔎 Looking for Full-Time Opportunities as an SRE or SDE
 - 🔭 Interested in developing tools that make it easier to build & maintain ML/Web Systems
 - 👷🏼‍♂️ Ex-Data Engineer at [Quantumblack](https://www.mckinsey.com/capabilities/quantumblack/how-we-help-clients/)
-- 👷🏼‍♂️ SRE Co-Op at [Tamr](https://www.tamr.com/)
+- 👷🏼‍♂️ Software Engineer at [Nomi Health](https://www.nomihealth.com/)
 - 📫 How to reach me: [linkedin.com/in/avaneeshyembadi/](linkedin.com/in/avaneeshyembadi/)
